@@ -1,0 +1,6 @@
+djangoproject.com
+meetup.com/pythonkc
+teamtreehouse.com
+learnpythonthehardway.org
+codeacademy.com
+the whats next in the tutorial
